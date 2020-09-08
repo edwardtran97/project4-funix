@@ -1,3 +1,3 @@
-# Project: "Create website by HTML5, CSS3 and Bootstrap" - FUNiX
-<p>This is a static web by HTML5, CSS3 and Bootstrap 4 in FUNiX Course - The first Vietnamese MOOC Software Engineering platform</p> 
-<p>Link: https://xstarseed.github.io/project4-funix</p>
+# Project: "Create website by HTML5, CSS3 and Bootstrap" - FUNiX Online University
+This is a static web by HTML5, CSS3 and Bootstrap 4 in "Create a first website" at FUNiX Online University</p> 
+[Go to website](https://edwardtran97.github.io/project4-funix/)
